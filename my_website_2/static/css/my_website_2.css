@@ -1,0 +1,39 @@
+h2 {
+    color:	#660000;
+    width: 50%;
+    text-align: center;
+    font-size: 40px;
+
+}
+h2 a{
+    color:	#660000;
+    width: 50%;
+    text-align: center;
+    font-size: 40px;
+
+}
+p {
+    color: #332222;
+    font-size: 18px;
+    text-shadow: 1px 1px #111111;
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+h1 a {
+    color: #992222;
+}
+body {
+    background-color: #555555;
+    text-shadow: 2px 2px #111111;
+}
+.center {
+  margin: auto;
+  width: 50%;
+
+}
+.padded {
+      padding: 10px;
+}
