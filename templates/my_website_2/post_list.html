@@ -2,7 +2,7 @@
 {% block content %}
     {% for	post in	posts %}
         <div>
-            <h2 ><a class="center-text"	href="{%	url	'post_detail'	pk=post.pk	%}">{{	post.title	}}</a></h2>
+            <h2 class="center" ><a class="center-text"	href="{%	url	'post_detail'	pk=post.pk	%}">{{	post.title	}}</a></h2>
             <p class="center">published: {{	post.published_date    }}</p>
             <p class="center">{{	post.text|linebreaksbr    }}</p>
         </div>
