@@ -16,7 +16,7 @@ p {
     color: #332222;
     font-size: 18px;
     text-shadow: 1px 1px #111111;
-    text-align: center;
+    /* text-align: center; */
 }
 h1 {
     font-size: 80px;
